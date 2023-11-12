@@ -1,0 +1,23 @@
+{
+  "name": "flashcardapp-server",
+  "version": "1.0.0",
+  "description": "Server for flashcardapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliwierangielski/FlashcardApp.git"
+  },
+  "keywords": [
+    "flashcard",
+    "flashcards"
+  ],
+  "author": "Oliwier Angielski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oliwierangielski/FlashcardApp/issues"
+  },
+  "homepage": "https://github.com/oliwierangielski/FlashcardApp#readme"
+}

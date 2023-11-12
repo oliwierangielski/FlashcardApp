@@ -1,0 +1,1 @@
+production - delete PUBLIC_URL='/absproxy/3000' from package.json
